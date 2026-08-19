@@ -1,0 +1,7 @@
+{
+  "name": "A-Level Accounting, Business & Economics Hub",
+  "description": "Complete A-Level curriculum revision suite covering Accounting, Business Studies, and Economics. Features full syllabus notes, interactive simulation labs, formula bank, flashcards, practice quizzes, and graded exam case studies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
